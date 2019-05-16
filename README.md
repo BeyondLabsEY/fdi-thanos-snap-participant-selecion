@@ -4,12 +4,14 @@
   <img width="460" height="300" src="https://github.com/BeyondLabsEY/fdi-thanos-snap-participant-selecion/blob/master/code/thanos.gif">
 </p>
 
+## O que é?
+
 Código simples para seleção de participantes randômicamente quando o número de participantes é maior do que o disponível. 😳
 
-# Componentes
+## Componentes
 
 Apenas o Pandas  😜
 
-# Modo de User
+## Modo de User
 
 Abra o [notebook](https://github.com/BeyondLabsEY/fdi-thanos-snap-participant-selecion/blob/master/code/session-participants-selection.ipynb) e execute.
