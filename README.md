@@ -14,6 +14,6 @@ Apenas o Pandas 😜
 
 ## Modo de Usar
 
-Abra o [notebook](https://github.com/BeyondLabsEY/fdi-thanos-snap-participant-selecion/blob/master/code/session-participants-selection.ipynb) e execute.
+Clone este projeto '''' https://github.com/BeyondLabsEY/fdi-thanos-snap-participant-selecion.git ''', abre o Jupyter Notebook '''fdi-thanos-snap-session-participants-selection.ipynb''' na pasta '''code''' e execute.
 
 Lá tem todas as instruções, passo-a-passo.
