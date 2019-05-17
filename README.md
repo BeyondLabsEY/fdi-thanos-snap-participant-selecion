@@ -12,7 +12,7 @@ Código simples para seleção de participantes randômicamente quando o número
 
 Apenas o Pandas 😜
 
-## Modo de User
+## Modo de Usar
 
 Abra o [notebook](https://github.com/BeyondLabsEY/fdi-thanos-snap-participant-selecion/blob/master/code/session-participants-selection.ipynb) e execute.
 
